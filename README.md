@@ -1,7 +1,7 @@
 # Selenium Template using JavaScript
 
 This project provides a basic template for using Selenium WebDriver with JavaScript. It demonstrates the fundamental
-setup required for automating web browsers and performing UI tests with Selenium.
+setup required for automating web browsers and performing UI tests with Selenium and POM(Page Object Model).
 
 ## Prerequisites
 
